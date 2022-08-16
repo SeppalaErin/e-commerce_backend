@@ -63,4 +63,4 @@ If you would like to contribute to this project feel free to send requests.  I o
 
 If you have any questions about the application, be sure to contact me at my [e-mail](mailto:SeppalaErin98@gmail.com).
 
-Alternatively you can find me and my other works at my [Github account](https://github.com/aseppala98).
+Alternatively you can find me and my other works at my [Github account](https://github.com/seppalaerin).
